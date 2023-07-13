@@ -1,0 +1,21 @@
+{
+    "name": "@nestjs/typeormquery",
+    "version": "1.0.0",
+    "description": "一个用于NestJs和Typeorm的模型化数据查询器 A Modeled Data Query Library for Nestjs and Typeorm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nestjs",
+        "typeorm",
+        "dataquery",
+        "query",
+        "model",
+        "nest",
+        "typeormquery",
+        "typeorm-query"
+    ],
+    "author": "polarbear88",
+    "license": "MIT"
+}
